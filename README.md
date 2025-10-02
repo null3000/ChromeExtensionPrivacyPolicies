@@ -1,5 +1,5 @@
 # Chrome Extension Privacy Policies
-Privacy Policies for all my Chrome Extensions is as follows:
-No extensions published by vwbosu store any data off device, and can never be acessed by anyone other than the user of the product. No unnecessary data is ever stored, and no data is sold or given to 3rd parties.
+Privacy Policies for StarWarsWeather & Minecraft Jukebox are as follows:
+Neither StarWarsWeather or Minecraft Jukebox store any personal data off device. No unnecessary data is ever stored, and no data is sold or given to 3rd parties. Anonymous stats data may be collected, this data is used for analytics only and is never sold or disclosed to third parties.
 
 
